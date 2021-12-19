@@ -18,7 +18,8 @@
 
 ---
 
-**[mlssystem.github.io](https://mlssystem.github.io)** <br>_Está armazenando conteúdo de estudos na área de TI._
+**[mlssystem.github.io](https://mlssystem.github.io)** <br> 
+- _Está armazenando conteúdo de estudos na área de TI._
 <p align="center">
   <a href="https://mlssystem.github.io/"><img src="https://github.com/mlssystem/mlssystem.github.io/blob/master/img/menu.png" alt="MLSSystem"/></a>
 </p>
@@ -72,7 +73,15 @@
 
 ### Criptomoedas :moneybag: :dollar:
 
-Site com coteúdo sobre [criptomoedas](https://mlssystem.github.io/bitblockdig/)
+_[BitBlockDig](https://mlssystem.github.io/bitblockdig/) | Site com coteúdo sobre criptomoedas_
+ 
+- BBD
+  - Bitcoin
+    - Blockchain
+      - Digitais
+    - Destrinchando
+  - BitBlockDig
+- BBD
 
 <div><br>
   <img align="center" alt="BTC" title="BTC" height="30" width="40" src="https://github.com/mlssystem/mlssystem/blob/main/img/cripto/thumbnail-btc.jpg">&nbsp;
