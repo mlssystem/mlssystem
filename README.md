@@ -4,7 +4,7 @@
 
 <br>
 
-> ### A vida é uma escola e o dia dia uma linção!
+> ### A vida é uma escola e o dia dia uma lição!
 >
 >> Só depende de você.
 >
