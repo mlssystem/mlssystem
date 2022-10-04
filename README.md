@@ -55,14 +55,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-### Analytics ⚙️
-
-<div>
-  <a href="https://github.com/mlssystem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mlssystem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlssystem&layout=compact&langs_count=7&theme=dracula"/></a>
-</div>
-
 ### Criptomoedas :moneybag: :dollar:
 
 _[BitBlockDig](https://mlssystem.github.io/bitblockdig/) | Site com coteúdo sobre criptomoedas_
